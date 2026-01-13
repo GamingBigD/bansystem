@@ -3,7 +3,7 @@ game "gta5"
 lua54 "yes"
 
 version "1.0.0"
-author "Custom Bansystem"
+author "Custom Bansystem BigD"
 description "Advanced Ban, Jail and Warn system for FiveM"
 
 shared_scripts {
