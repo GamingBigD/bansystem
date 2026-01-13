@@ -1,4 +1,4 @@
-# OV Bansystem
+# Bansystem
 
 Ein umfassendes Ban-, Warn- und Jail-System für FiveM Server mit ESX Framework.
 
